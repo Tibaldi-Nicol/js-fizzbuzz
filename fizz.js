@@ -13,4 +13,9 @@ for(let numero = 1 ; numero <= 100 ; numero++){
     else if(numero % 5 == 0){
         stringa += "Buzz";
     }
+
+    //SE LA STRINGA E' VUOTA STAMPO IL NUMERO    // se la stringa è vuota, allora il numero non è divisibile per 3 e 5, quindi lo stampo
+    if(stringa == ""){
+        console.log(numero);
+    }
 }
