@@ -7,6 +7,22 @@ scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 Buon lavoro e buon divertimento! 
 
+DIVISIONE ESERCIZIO IN SOTTO PROBLEMI
+
+1-Stampa numeri da 0 a 100
+2-I multipli di 3 stamperanno fizz
+3-I multipli di 5 con la parola buzz
+4-i numeri multipli di entrambi con fizzbuzz
+
+per poter dividere uso operatore modulo 
+infatti da il rsto della divisione tra 2 numeri 
+esempio 
+10%5=0
+10 dividendo per 5 fa 2 quindi si è divisibile eda resto 0
+
+se un numero da resto non è divisibile 
+esempio 10 diviso 3
+
 
 
 
