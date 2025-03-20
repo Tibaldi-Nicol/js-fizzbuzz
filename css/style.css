@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav
+{
+   
+    min-height: 8vh;
+    background-color: #f1f1f1;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 8vh;
+    padding: 0 10%;
+    background-color: aqua;
+    color: white;
+}
+
+.console{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 92vh;
+    ;
+}
+
+body{
+    background-color:  rgb(221, 189, 189)
+}
