@@ -8,4 +8,9 @@ for(let numero = 1 ; numero <= 100 ; numero++){
         // operatore di "addizione e assegnazione" che aggiunge il valore a destra al valore a sinistra e poi assegna il risultato alla variabile a sinistra
         stringa += "Fizz";
     }
+    //SE IL NUMERO E' DIVISIBILE PER 5 AGGIUNGO Buzz
+    // Un numero è divisibile per 5 se il resto della divisione (numero % 5) è uguale a 0
+    else if(numero % 5 == 0){
+        stringa += "Buzz";
+    }
 }
